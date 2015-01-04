@@ -1,5 +1,5 @@
 #include "application.h"
-#include "Wtv020sd16p.h"
+#include "Wtv020sd16p/Wtv020sd16p.h"
 
 #define WTV020_RESET_PIN D2  // The pin number of the reset pin.
 #define WTV020_CLOCK_PIN D3  // The pin number of the clock pin.
